@@ -29,6 +29,17 @@
      width: 100px;
      height: 40px;
      color: rgb(11, 117, 94);
-     border-radius: 10px 20px;
-     text-align: right;
+     : ;
+     border-radius: 10px;
+     text-align: center;
+ }
+ 
+ .foto-fachada {
+     width: 800px;
+     position: relative;
+     text-align: center;
+ }
+ 
+ .logo1 {
+     text-align: center;
  }
